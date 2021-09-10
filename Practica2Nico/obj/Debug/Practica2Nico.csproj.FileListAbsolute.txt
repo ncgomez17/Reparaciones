@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\Practica2Nico\Practica2Nico\bin\Debug\Practica2Nico.exe.config
+C:\Users\Usuario\source\repos\Practica2Nico\Practica2Nico\bin\Debug\Practica2Nico.exe
+C:\Users\Usuario\source\repos\Practica2Nico\Practica2Nico\bin\Debug\Practica2Nico.pdb
+C:\Users\Usuario\source\repos\Practica2Nico\Practica2Nico\obj\Debug\Practica2Nico.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Practica2Nico\Practica2Nico\obj\Debug\Practica2Nico.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Practica2Nico\Practica2Nico\obj\Debug\Practica2Nico.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Practica2Nico\Practica2Nico\obj\Debug\Practica2Nico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Practica2Nico\Practica2Nico\obj\Debug\Practica2Nico.exe
+C:\Users\Usuario\source\repos\Practica2Nico\Practica2Nico\obj\Debug\Practica2Nico.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<reparaciones>
+  <reparacion Tipofactura="ReparacionCompleja" Costo="60" Tiempo="4">
+    <Producto NumSerie="12" Precio="10" Modelo="3" Pulgadas="2">Televisor</Producto>
+  </reparacion>
+</reparaciones>
